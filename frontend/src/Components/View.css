@@ -1,0 +1,4 @@
+.card-body-left {
+    display: flex;
+    border: 2px solid black;
+}
